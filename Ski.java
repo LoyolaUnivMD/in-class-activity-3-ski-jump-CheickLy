@@ -1,3 +1,12 @@
+/** Programmers:  [Cheick]
+ * Course:  CS 212
+ * Due Date: 02/08/2024
+ * Inclass assignment: ski
+ * Problem Statement: calculate the distance traveled based on speed and determine how many points they’d receive if they went that distance
+ * Data In: Hill type (String), Speed of the jumper at the end of the ramp (double)
+ * Data Out: Distance traveled (double), Points earned (double)
+ * Credits: [Notes from class]
+ */
 import java.util.Scanner;
 
 public class Main {
